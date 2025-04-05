@@ -8,12 +8,19 @@ List of Cocktails is a beautifully designed iOS application built using SwiftUI,
 SwiftUI – For declarative UI development
 MVVM Architecture – For clean and scalable code
 
+
 📜 Browse an extensive list of cocktails
+
 🍸 View detailed recipes with ingredients and instructions
+
 🔍 Search for cocktails by name or ingredients
+
 🌙 Dark mode support for a sleek UI experience
+
 📱 Built with SwiftUI for a smooth and modern user interface
+
 🛠️ Tech Stack
+
 
 <img src = "https://github.com/akunte10/cocktailBook/assets/106234497/f5dc1f03-0aeb-43da-a294-66605419332c.png" width = 280, height = 580>
 
